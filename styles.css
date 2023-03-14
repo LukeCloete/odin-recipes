@@ -50,6 +50,9 @@ div.header {
     position: absolute;
     top: 70px; right: 100px;
 }
+.foodPic.wings {
+    width: 500px;
+}
 
 .description {
     margin-top: 40px;
@@ -64,6 +67,10 @@ div.header {
     background-color: lightgrey;
     padding: 10px;
     width: 480px;
+}
+
+.ingredients.wings {
+    top: 600px;
 }
 
 .ingredients h2 {
@@ -99,4 +106,9 @@ div.header {
     height: 200px;
     margin: 0;
     padding: 0;
+}
+
+.footer.wings {
+    margin-top: 400px;
+    height: 300px;
 }
