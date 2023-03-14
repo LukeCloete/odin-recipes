@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+div#header {
+    background-color: rgb(241, 101, 101);
+    height: 250px;
+}
+
+#heading {
+    font-size: 72px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 70px;
+    padding-bottom: 40px;
+    margin: 0px;
+}
+
+#header p {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold
+}
+
+#recipes {
+    font-size: 20px;
+    margin-top: 70px;
+    padding-left: 60px;
+    color:  rgb(241, 101, 101);
+}
+
+.links li {
+    margin: 30px 0;
+}
+
